@@ -10,3 +10,6 @@ implememnted by kriley on 9/1/17
 
 hotfix 2.1.1 Hot fix to fix criical production bug - broken pull-down.
 implemented by kriley on 9/5/17.
+
+us-4 User story 4: Added new implementation code
+implemented by kriley 9/8/17. 
