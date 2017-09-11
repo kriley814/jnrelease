@@ -17,5 +17,10 @@ implemented by criley on 9/8/17.
 us-4 User story 4: Added new implementation code
 implemented by kriley 9/8/17.
 
+
 us-5 User story 5: Added method to subtract two numbers
 implemented by kriley 9/11/17.
+
+us-5 User story 5: Added new method to add two numbers.
+implemented by criley 9/11/17.
+
