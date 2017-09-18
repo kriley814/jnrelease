@@ -19,3 +19,9 @@ public int addNumbers(int x, int y){
 	return (x+y);
 
 }
+
+// Multiply two numbers
+public int multNumbers(intx, inty){
+
+	return (x*y);
+}

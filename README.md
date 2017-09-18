@@ -24,3 +24,6 @@ implemented by kriley 9/11/17.
 us-5 User story 5: Added new method to add two numbers.
 implemented by criley 9/11/17.
 
+us-6 User story 6: Added new method to multiply two numbers.
+implemented by kriley 9/18/17
+
