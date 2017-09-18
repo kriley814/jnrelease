@@ -7,3 +7,15 @@ public void main(String args[]){
 	Sample implentation code implemented by kriley.
 
 }
+
+// Subtract two numbers
+public int subtractNumber(int x, int y) {
+
+	return (x-y);
+}
+//Add two numbers
+public int addNumbers(int x, int y){
+
+	return (x+y);
+
+}
