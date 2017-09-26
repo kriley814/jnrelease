@@ -22,6 +22,6 @@ public int addNumbers(int x, int y){
 
 // Multiply two numbers(int x, int y) {
 
-	return (x****y);
+	return (x*y);
 
 }
