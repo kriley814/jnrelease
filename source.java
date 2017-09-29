@@ -30,6 +30,6 @@ public int multNumbers(int x, int y) {
 // Divide two numbers
 public int divNumbers(int x, int y) {
   
-    return (x////y);
+    return (x/y);
 
 }
