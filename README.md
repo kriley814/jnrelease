@@ -26,3 +26,6 @@ implemented by criley 9/11/17.
 
 us-6 User story 6: Added new method to multiply two numbers.
 implemented by kriley 9/18/17
+
+us-7 User story 7: Added new method to divide two numbers.
+implemented by kriley 9/29/17
