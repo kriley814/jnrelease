@@ -35,7 +35,12 @@ public int divNumbers(int x, int y) {
 }
 
 //Divid by zero
-public int divByZero(int x, int y) {
+//public int divByZero(int x, int y) {
 
-	return (x+y)/0;
+//	return (x+y)/0;
+//}
+
+// Print two numbers
+public void printNumbers(int x, int y) {
+	System.out.println("x: " + x + " y: " + y);
 }
