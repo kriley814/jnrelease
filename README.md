@@ -32,3 +32,6 @@ implemented by kriley 9/29/17
 
 us-8 User story 8: Added new method to print two numbers
 implemented by kriley 10/5/17
+
+us-9 User story 9: Simple comment to README.md.
+
