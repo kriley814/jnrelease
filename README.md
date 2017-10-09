@@ -29,3 +29,6 @@ implemented by kriley 9/18/17
 
 us-7 User story 7: Added new method to divide two numbers.
 implemented by kriley 9/29/17
+
+us-8 User story 8: Added new method to print two numbers
+implemented by kriley 10/5/17
