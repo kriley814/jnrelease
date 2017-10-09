@@ -29,3 +29,5 @@ implemented by kriley 9/18/17
 
 us-7 User story 7: Added new method to divide two numbers.
 implemented by kriley 9/29/17
+
+us-9 User story 9: Simple comment to README.md.
