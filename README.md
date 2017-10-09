@@ -35,3 +35,8 @@ implemented by kriley 10/5/17
 
 us-9 User story 9: Simple comment to README.md.
 
+hotfix 2.1.1 Hot fix to fix criical production bug - broken pull-down.
+implemented by kriley on 9/5/17.
+
+hotfix 2.1.2 Hot fix for critical production bug - broken search box.
+implemented by criley on 10/8/17
